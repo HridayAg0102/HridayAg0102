@@ -1,5 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+![](https://komarev.com/ghpvc/?username=your-HridayAg0102&color=blue)
+
 </div>
 
 ![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridayAg0102&show_icons=true&theme=radical)
